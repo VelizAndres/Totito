@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\Totito_IA\bin\Debug\Totito_IA.exe.config
+C:\Users\andre\source\repos\Totito_IA\bin\Debug\Totito_IA.exe
+C:\Users\andre\source\repos\Totito_IA\bin\Debug\Totito_IA.pdb
+C:\Users\andre\source\repos\Totito_IA\obj\Debug\Totito_IA.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Totito_IA\obj\Debug\Totito_IA.Form1.resources
+C:\Users\andre\source\repos\Totito_IA\obj\Debug\Totito_IA.Properties.Resources.resources
+C:\Users\andre\source\repos\Totito_IA\obj\Debug\Totito_IA.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Totito_IA\obj\Debug\Totito_IA.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Totito_IA\obj\Debug\Totito_IA.exe
+C:\Users\andre\source\repos\Totito_IA\obj\Debug\Totito_IA.pdb
